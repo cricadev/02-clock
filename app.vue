@@ -17,13 +17,6 @@ p {
   text-align: center;
   padding: 50px;
   min-height: 100vh;
-}
-.note {
-  transition: all 0.3s;
-  display: inline-block;
-  padding: 15px 15px;
-  border-radius: 5px;
-  background-color: var(--bg-secondary);
-  color: var(--color-secondary);
+  width: 100vw;
 }
 </style>

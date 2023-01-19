@@ -80,7 +80,7 @@
       </div>
     </div>
     <footer
-      class="flex flex-col items-center justify-center gap-2 rounded-lg special-thanks"
+      class="flex flex-col items-center justify-center gap-2 p-4 rounded-lg special-thanks"
     >
       <div class="inline-flex items-center gap-2">
         <span>Made with love by <strong>CricaDev</strong> </span>
@@ -260,13 +260,6 @@ html {
   font-size: 10px;
 }
 
-.container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  flex: 1;
-}
 .clock {
   display: grid;
   place-items: center;
