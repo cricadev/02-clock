@@ -16,6 +16,7 @@ p {
 .container {
   text-align: center;
   padding: 50px;
+  min-height: 100vh;
 }
 .note {
   transition: all 0.3s;
